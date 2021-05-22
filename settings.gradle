@@ -12,3 +12,4 @@ include ':app_abnumber'
 include ':app_luckynumber'
 include ':app'
 rootProject.name = "MyBMIApp"
+include ':app_room'
